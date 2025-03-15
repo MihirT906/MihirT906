@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am currently pursuing a Master's degree at the University of Massachusetts, Amherst, and am looking for full-time opportunities. I’m a problem-solver at heart, and one thing that really sets me apart is my learning agility. It’s not just about learning new tech or concepts but about being curious enough to dive in and figure things out, even when I don’t have all the answers. 
 
 <!--
 **MihirT906/MihirT906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
